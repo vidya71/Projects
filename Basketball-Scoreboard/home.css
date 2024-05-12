@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(238, 246, 236);
+}
+.home{
+    display: inline-block;
+    margin-right: 90px;
+    background-color: aqua;
+}
+.guest{
+    display: inline-block;
+    background-color: aqua;
+}
+h2{
+    font-weight: bolder;
+    font-size:50px;
+    padding-left: 55px;
+}
+
+#home-el{
+    background-color: red;
+    padding: 20px 80px;
+    margin: 50px;
+}
+
+#guest-el{
+    background-color: red;
+    padding: 20px 80px;
+    margin: 50px;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    
+   
+}
+
+button{
+    padding: 10px 20px;
+    background-color: blueviolet;
+    margin: 20px 10px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 100px;
+}
+
